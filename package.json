@@ -1,0 +1,14 @@
+{
+  "name": "command-line-programming-quiz",
+  "version": "1.0.0",
+  "description": "Quiz for other people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^3.0.0"
+  }
+}
